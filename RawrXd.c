@@ -3,7 +3,7 @@
 
 int main()
 {
-    printf("Hello World");
+    printf("Hello gamers");
     int num1;
     printf("enter a numb and ill print it: \n");
     scanf("%d", &num1);
